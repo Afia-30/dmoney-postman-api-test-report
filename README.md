@@ -4,3 +4,7 @@
 
 
 1.https://documenter.getpostman.com/view/37980230/2sAYBUDXgM
+
+## Attachment
+
+[Download the Excel file](https://github.com/Afia-30/dmoney-postman-api-test-report/raw/main/Test-case-postman%20assignment.xlsx)
